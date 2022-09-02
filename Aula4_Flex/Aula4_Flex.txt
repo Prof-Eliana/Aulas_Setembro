@@ -18,5 +18,4 @@ Atividades
 	- git commit -m "criando o arq. iNDEX"
 	- git push origin master
 
-teste
-teste
+
