@@ -1,0 +1,22 @@
+Atividades
+1- Acesse o gitHub. Crie o repositório Aulas_Setembro
+1.1- Copie o link 
+2- Acesse a pasta TETEC no seu usuário
+3- Chame o terminal (git bash here)
+4- configure o caminho do repositório remoto 
+(git remote add origin link)
+5- Deu erro? Se sim faça:
+	git remote rm origin
+	refaça o item 4
+6- Configure em seu repositório remoto a branch MASTER como padrão
+(isso foi feito na aula passada. Tente lembrar!!!)
+7- cRIE na pasta TETEC a pasta Aula4_Flex
+8- Abra o Notepad ++ (tá funcionando melhor q o VSCode)
+9- Crie o arquivo index.html e salve o mesmo na pasta Aula4_Flex
+10- empure as alterações para o repositório remoto
+	- git add .
+	- git commit -m "criando o arq. iNDEX"
+	- git push origin master
+
+teste
+teste
